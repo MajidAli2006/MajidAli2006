@@ -2,7 +2,7 @@
 
 ### 🚀 AI & Mobile App Developer | 7+ Years Experience
 
-I am a results-driven developer bridging the gap between robust **Mobile Engineering** and **Artificial Intelligence**. [cite_start]With over 7 years of experience building secure FinTech and business applications[cite: 4, 8], I now specialize in integrating **Generative AI** and **Agentic Automation** into scalable mobile solutions.
+I am a results-driven developer bridging the gap between robust **Mobile Engineering** and **Artificial Intelligence**. With over 7 years of experience building secure FinTech and business applications, I now specialize in integrating **Generative AI** and **Agentic Automation** into scalable mobile solutions.
 
 - 🔭 I’m currently building **AI-Powered Mobile Apps & Agentic Workflows**
 - 💼 Experience: **Cynergy Bank (UK)**, **Zealous Tech**, & **Magnatec Systems**
